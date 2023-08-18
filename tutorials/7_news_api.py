@@ -1,19 +1,6 @@
-# STEPS TO USE THIS CODE
-# 1. Install Python (version 3) - make sure you include pip in the install
-#    - pip is the package installer for Python. We can write a lot with basic Python,
-#       but it's useful to use packages that other people have written. That way we
-#       don't have to write everything from scratch ourselves.
-# 2. Double check python has installed successfully. In a terminal, type in "python --version".
-#    If that doesn't work, try "python3 --version". You should see a version number output e.g.
-#    Python 3.10.8
-# 3. Install and open Visual Studio Code - https://code.visualstudio.com/
-# 4. Open the python_demo folder in VS Code.
-# 5. Click on "Terminal" in the taskbar, then "New Terminal". In that terminal, 
-# type in the following command: "pip install requests"
-
-# TO RUN THIS CODE, EITHER:
-# - Right click on the code in VS Code, and select "Run Python File in Terminal"
-# - Click the play button in the top right of VS Code
+# This is the final exercise and definitely the trickiest - On to using APIs!
+# As mentioned this is tricky. Don't feel defeated if you're new to Python and it makes zero sense
+# Feel free to ask the STEM Ambassadors as many questions as you want!
 
 # GETTING NEWS FROM OUR API
 # Source: https://newsapi.org/docs

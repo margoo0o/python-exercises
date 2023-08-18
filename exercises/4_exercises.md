@@ -11,11 +11,11 @@ I have a list of things I need to buy from my supermarket of choice.
 
 ```python
 shopping_list = [
-"oranges",
-"cat food",
-"sponge cake",
-"long-grain rice",
-"cheese board",
+    "oranges",
+    "cat food",
+    "sponge cake",
+    "long-grain rice",
+    "cheese board",
 ]
 
 print(shopping_list[1])
@@ -32,10 +32,10 @@ Finish the program by asking the user to input an item and then output its price
 
 ```python
 chocolates = {
-'white': 1.50,
-'milk': 1.20,
-'dark': 1.80,
-'vegan': 2.00,
+    'white': 1.50,
+    'milk': 1.20,
+    'dark': 1.80,
+    'vegan': 2.00,
 }
 ```
 
