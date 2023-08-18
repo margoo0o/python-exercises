@@ -33,6 +33,10 @@ print("Hello\nThere!\n")
 # you think they mean?
 
 
+# We can also get the user's input and store that in a variable. We use the input() function to do this.
+# You can put a message inside the input function - it'll ask the user that question when they're prompted to type.
+user_name = input("Hello! What is your name? ")
+print(f"Hello {user_name}! Welcome to Insider's Python Tutorial 🐍")
 
 # We can also perform mathematical operations in our code - don't forget we have to convert our numbers to strings!
 print(str(10 + 64))
