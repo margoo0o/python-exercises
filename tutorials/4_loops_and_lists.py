@@ -115,4 +115,15 @@ for category in insider_article_categories:
 # TASK - Make your own list and loop over it. You don't have to print the variables - you could change them too!
 
 
+# Finally let's combine our loops with if statements!
+articles = ["Top 10 Headphones", "How to survive a Zombie Apocalypse", "Top 5 movies to watch on Netflix tonight",
+    "Are Driverless cars the Future?"]
+for article in articles:
+    if article.find("Driverless") >= 0: # If the number is >= 0, it's in the string. If the number is -1 it's not in the string.
+        print("Found the article: ", article)
+    else:
+        print(article, "isn't a match!")
+
+# TASK - Time to make your own! Try and combine all the things we've learned so far - loops, if statements, and inputs!
+
 # And voila! Now you've learned lists AND loops. Give yourself a pat on the back.
